@@ -24,3 +24,4 @@ C:\Users\gato_\source\repos\Lab03\Lab03\obj\Debug\net5.0-windows\refint\Lab03.dl
 C:\Users\gato_\source\repos\Lab03\Lab03\obj\Debug\net5.0-windows\Lab03.pdb
 C:\Users\gato_\source\repos\Lab03\Lab03\obj\Debug\net5.0-windows\Lab03.genruntimeconfig.cache
 C:\Users\gato_\source\repos\Lab03\Lab03\obj\Debug\net5.0-windows\ref\Lab03.dll
+C:\Users\gato_\source\repos\Lab03\Lab03\obj\Debug\net5.0-windows\Lab02_01.frmLogin.resources

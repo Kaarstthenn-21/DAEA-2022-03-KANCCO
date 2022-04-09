@@ -2,6 +2,7 @@
 using System.Windows.Forms;
 using System.Data.SqlClient;
 using System.Data;
+using Lab02_01;
 
 namespace Lab03
 {
@@ -50,6 +51,10 @@ namespace Lab03
                 conn.Open();
                 MessageBox.Show("Conectado satisfactoriamente");
                 btnDesconectar.Enabled = true;
+
+                frmLogin login = new frmLogin(conn);
+                login.Show();
+
             }catch (Exception ex)
             {
                 MessageBox.Show("Error al conectar el servidor: \n " + ex.ToString());
